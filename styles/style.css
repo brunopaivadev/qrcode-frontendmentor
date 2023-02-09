@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  background-color: hsl(212, 45%, 89%) !important;
+  max-width: 1440px;
+  min-width: 375px;
+}
+.box-1 {
+  margin: 0 auto !important;
+  max-width: 900px;
+  border-radius: 100px !important;
+  position: relative;
+}
+.card-text {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.card-text b {
+  font-size: 20px;
+  font-weight: 700;
+}
+.card {
+  border: none !important;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 50px;
+  border-radius: 15px !important;
+  margin-top: 150px;
+}
